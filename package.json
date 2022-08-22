@@ -47,7 +47,7 @@
     "prettier": "^2.7.1",
     "semantic-release": "^19.0.3",
     "ts-jest": "^28.0.8",
-    "ts-node": "10.6",
+    "ts-node": "10.9",
     "typescript": "*"
   }
 }
